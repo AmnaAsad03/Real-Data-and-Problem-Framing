@@ -1,6 +1,6 @@
 # Real Data and Problem Framing
 
-This repository contains my Week 1 internship work focused on real-world data analysis and problem framing. It involved exploring messy datasets, identifying data quality issues, understanding business context, and defining the right problem before moving toward analysis or machine learning.
+This repository focused on real-world data analysis and problem framing. It involved exploring messy datasets, identifying data quality issues, understanding business context, and defining the right problem before moving toward analysis or machine learning.
 
 ## Overview
 
